@@ -1,0 +1,12 @@
+*.suo
+*.user
+
+.vs/
+.idea/
+
+[Dd]ebug/
+[Oo]bj/
+[Ll]og/
+
+*.pubxml
+*.DotSettings.user
